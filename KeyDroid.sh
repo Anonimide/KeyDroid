@@ -1,7 +1,7 @@
 #!/bin/bash
 # KeyDroid v1.0
-# Author: @thelinuxchoice (You don't become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/keydroid
+# Author: @D4RK574RK (Don't COPY, I DID)
+# Github: https://github.com/Anonmide/keydroid
 
 host="159.89.214.31" #Serveo.net
 
@@ -42,7 +42,7 @@ printf " | |/ /___ _   _|  _ \ _ __ ___ (_) __| | \n"
 printf " | ' // _ \ | | | | | | '__/ _ \| |/ _\` | \n"
 printf " | . \  __/ |_| | |_| | | | (_) | | (_| | \n"
 printf " |_|\_\___|\__, |____/|_|  \___/|_|\__,_| \n"
-printf "           |___/\e[0m\e[1;92m Author: @thelinuxchoice\e[0m\n"
+printf "           |___/\e[0m\e[1;92m Author: @D4RK574RK\e[0m\n"
 printf "\n"
 }
 
